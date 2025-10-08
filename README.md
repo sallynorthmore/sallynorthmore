@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m a Fullstack JavaScript Engineer with 15 years’ studio, agency, and start-up experience delivering world class digital experiences. I love building scalable, clean software and driving process. My strengths and expertise lie in the frontend though I move across the stack. I'm also dynamic leader: fostering inclusive teams, strong communication skills, and managing client success with complex technical challenges.
+I’m a Fullstack JavaScript Engineer with 15 years’ product, agency, and big-tech experience delivering world class digital experiences. I love building scalable, clean software and driving process. My strengths and expertise lie in the frontend though I move across the stack. I'm also dynamic leader: fostering inclusive teams, strong communication skills, and managing client success with complex technical challenges.
 
 - 🔭 I’m currently consulting with several organisations, lending my technical know-how to help them lift their apps and websites off the ground.
 - 👯 I’m looking for an IC or technical lead role with an emphasis on Frontend or UI architecture
