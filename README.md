@@ -5,7 +5,7 @@ I’m a Fullstack JavaScript Engineer with 15 years’ product, agency, and big-
 - 🔭 I’m currently consulting with several organisations, lending my technical know-how to help them lift their apps and websites off the ground.
 - 👯 I’m looking for an IC or technical lead role with an emphasis on Frontend or UI architecture
 - 🌱 I’m currently learning LLMs + JavaScript == fun
-- 📫 How to reach me: message me on (LinkedIn)[https://www.linkedin.com/in/sallynorthmore/]
+- 📫 How to reach me: message me on [LinkedIn](https://www.linkedin.com/in/sallynorthmore/)
 - 😄 Pronouns: She/Her
 
 <!--
