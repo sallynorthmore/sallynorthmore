@@ -2,9 +2,8 @@
 
 I’m a Fullstack JavaScript Engineer with 15 years’ product, agency, and big-tech experience delivering world class digital experiences. I love building scalable, clean software and driving process. My strengths and expertise lie in the frontend though I move across the stack. I'm also dynamic leader: fostering inclusive teams, strong communication skills, and managing client success with complex technical challenges.
 
-- 🔭 I’m currently consulting with several organisations, lending my technical know-how to help them lift their apps and websites off the ground.
-- 👯 I’m looking for an IC or technical lead role in a planet-friendly enterprise
-- 🌱 I’m currently learning LLMs + JavaScript == fun
+- 🔭 I bring tech leadearship and product management skills to internal software development for a Solar Energy company
+- 🌱 I am happiest in the garden
 - 📫 How to reach me: message me on [LinkedIn](https://www.linkedin.com/in/sallynorthmore/)
 - 😄 Pronouns: She/Her
 
